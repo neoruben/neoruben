@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://ko-fi.com/neoruben" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Apóyame-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Apóyame en Ko-fi" />
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36">
   </a>
 </p>
 
