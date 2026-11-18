@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hola, soy [neoruben](https://github.com/neoruben) 👋
 
 <p>
